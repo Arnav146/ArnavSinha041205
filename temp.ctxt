@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=temp
+comment1.params=arrSize
+comment1.target=temp(int)
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ compute()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
